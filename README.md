@@ -7,11 +7,17 @@ Demo
 • Overview ✍️
 
 • Motivation 💪
+
 • Architecture 🏛
+
 • Define Algorithm 🧠
+
 • Run Locally
+
 • Tech Stack
+
 • Authors
+
 • Social Link
 
 Demo
