@@ -3,21 +3,14 @@
 Table of Contents
 
 Demo
-Overview ✍️
-
-Motivation 💪
-
-Architecture 🏛
-
-Define Algorithm 🧠
-
-Run Locally
-
-Tech Stack
-
-Authors
-
-Social Link
+• Overview ✍️
+• Motivation 💪
+• Architecture 🏛
+• Define Algorithm 🧠
+• Run Locally
+• Tech Stack
+• Authors
+• Social Link
 
 Demo
 
